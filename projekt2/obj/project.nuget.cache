@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1WauK2ikx4J/YvU2Rpp6DEOruwOU7jWyBHvdw79KIF2pMSWn4LovlVkQZ4dxgeOxsmc4DYpg/8wqGBAzYjekKA==",
+  "dgSpecHash": "QfcJ3kDvHpDzvEoC68FTo7KQCleUhEbPEVtl0ZVdZhDCAo/zH9JmLSQ2C1WW/Ww4cuX+DZI7Cx9legNAIszVTg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sbede\\Desktop\\mvc\\Warehouse\\Warehouse.csproj",
+  "projectFilePath": "C:\\Users\\sbede\\Source\\Repos\\egui_lab1\\projekt2\\Warehouse.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sbede\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\sbede\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.5\\microsoft.aspnetcore.cryptography.internal.7.0.5.nupkg.sha512",
