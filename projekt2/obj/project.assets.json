@@ -10534,11 +10534,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sbede\\Desktop\\mvc\\Warehouse\\Warehouse.csproj",
+      "projectUniqueName": "C:\\Users\\sbede\\Source\\Repos\\egui_lab1\\projekt2\\Warehouse.csproj",
       "projectName": "Warehouse",
-      "projectPath": "C:\\Users\\sbede\\Desktop\\mvc\\Warehouse\\Warehouse.csproj",
+      "projectPath": "C:\\Users\\sbede\\Source\\Repos\\egui_lab1\\projekt2\\Warehouse.csproj",
       "packagesPath": "C:\\Users\\sbede\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sbede\\Desktop\\mvc\\Warehouse\\obj\\",
+      "outputPath": "C:\\Users\\sbede\\Source\\Repos\\egui_lab1\\projekt2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sbede\\AppData\\Roaming\\NuGet\\NuGet.Config",
