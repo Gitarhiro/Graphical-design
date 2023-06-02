@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "id": "jeremy",
+      "pwd": "123"
+    },
+    {
+      "id": "richard",
+      "pwd": "123"
+    }
+  ],
+  "products": [
+    {
+      "id": 7,
+      "code": "5AB13",
+      "name": "potatoes",
+      "description": "by weight",
+      "category": "food",
+      "quantity": 11.4,
+      "measure": "kg",
+      "price": "1.5"
+    },
+    {
+      "id": 11,
+      "code": "W513",
+      "name": "cigarettes",
+      "description": "not too healthy",
+      "category": "liquid",
+      "quantity": 12,
+      "measure": "pcs",
+      "price": "10.5"
+    },
+    {
+      "id": 12,
+      "code": "123",
+      "name": "123",
+      "description": "123",
+      "category": "other",
+      "quantity": "123",
+      "measure": "kg",
+      "price": "123"
+    },
+    {
+      "id": 13,
+      "code": "123",
+      "name": "123",
+      "description": "123",
+      "category": "other",
+      "quantity": "123",
+      "measure": "kg",
+      "price": "123"
+    }
+  ],
+  "categories": [
+    {
+      "id": 20,
+      "name": "food"
+    },
+    {
+      "id": 25,
+      "name": "other"
+    },
+    {
+      "id": 26,
+      "name": "liquid"
+    }
+  ]
+}
